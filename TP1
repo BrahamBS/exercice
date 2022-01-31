@@ -8,3 +8,9 @@ ports
 1: [10]
 2: [20]
 3: [10.20
+Git push
+Nécessite une procédure
+d’authentification au niveau du
+github 100
+git push 'remote_name' 'branch_name’ : elle transfert les commits, effectués sur
+une branche locale à un dépôt distant
